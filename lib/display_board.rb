@@ -4,6 +4,7 @@ def display_board
   row = "   |   |   "
   dashes = "-----------"
   
-  puts " #{row} \n #{dashes} \n #{row} \n #{dashes} \n #{row} "
+  puts "#{row}"
+  puts "#{dashes}"
   
 end
