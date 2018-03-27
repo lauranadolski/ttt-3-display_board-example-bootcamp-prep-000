@@ -9,5 +9,5 @@ def display_board
   puts "#{row}"
   puts "#{dashes}"
   puts "#{row}"
-  
+
 end
