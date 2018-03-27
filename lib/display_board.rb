@@ -2,6 +2,8 @@
 
 def display_board
   row = ["   ", "|", "   ", "|", "   "]
-  dashes = 
+  dashes = "-----------"
+  
+  
   
 end
