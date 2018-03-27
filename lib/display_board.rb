@@ -4,10 +4,6 @@ def display_board
   row = ["   ", "|", "   ", "|", "   "]
   dashes = "-----------"
   
-  row
-  dashes
-  row
-  dashes
-  row
+  puts "#{row} \n #{dashes} \n #{row} \n #{dashes} \n #{row}"
   
 end
